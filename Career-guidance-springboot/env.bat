@@ -1,0 +1,1 @@
+echo 'set GEMINI_API_KEY="AIzaSyBs6E9BZUcohdbIkq-SdR6ColMS7pqMUFM" ' >env.bat
