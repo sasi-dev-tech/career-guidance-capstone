@@ -28,7 +28,7 @@ public class GuidanceController {
         GeminiClient geminiClient;
         if (apiKey != null && !apiKey.isBlank()) {
             log.info("Using RealGeminiClient (Gemini HTTP API)");
-            geminiClient = new RealGeminiClient(apiKey, "gemini-1.5-flash");
+            geminiClient = new RealGeminiClient(apiKey, "gemini-2.5-flash");
         } else {
             log.warn("GEMINI_API_KEY not set; using MockGeminiClient");
             geminiClient = new MockGeminiClient();
