@@ -24,7 +24,7 @@ public class GuidanceController {
 
     public GuidanceController() {
         //String apiKey = System.getenv("GEMINI_API_KEY");
-        String apiKey ="AIzaSyBs6E9BZUcohdbIkq-SdR6ColMS7pqMUFM";
+        
         GeminiClient geminiClient;
         if (apiKey != null && !apiKey.isBlank()) {
             log.info("Using RealGeminiClient (Gemini HTTP API)");
