@@ -79,7 +79,9 @@ Flow:
 
 ### 🔹 Personalized Career Guidance System – Agent Architecture
 
-![Agent Architecture Mind Map](NotebookLM%20Mind%20Map%20(1).png)
+![Agent Architecture Mind Map](<img width="2048" height="1472" alt="image" src="https://github.com/user-attachments/assets/0dd85380-6a7a-4ba5-b687-e982d38ddcf3" />
+)
+
 
 ---
 
